@@ -8,4 +8,4 @@ Objetivo do Desafio: O iFood deseja criar um novo Dashboard para os entregadores
 dos atributos, script do modelo atributos e os 
 três insights identificados. 
 
-[Captura de tela_14-6-2024_171250_](https://github.com/matheus-dsa/Enterprise-Challenge-iFood/assets/81189401/26cb9bb0-7c65-4e5d-8e4a-b4cfbb410728)
+![Captura de tela_14-6-2024_171250_](https://github.com/matheus-dsa/Enterprise-Challenge-iFood/assets/81189401/4c6f835c-179b-4f66-abfd-643f7e366798)
