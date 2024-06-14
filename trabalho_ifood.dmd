@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="trabalho_ifood" id="51CD966E-01A0-379B-988A-4AFF47C01AEE" version="3.5">
+<createdBy>dg</createdBy>
+<createdTime>2022-06-04 16:08:47 UTC</createdTime>
+<ownerDesignName>trabalho-ifood</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>51CD966E-01A0-379B-988A-4AFF47C01AEE</designId>
+</OSDM_Design>
